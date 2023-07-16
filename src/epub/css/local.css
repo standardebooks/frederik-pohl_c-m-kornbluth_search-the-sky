@@ -16,6 +16,12 @@
 	text-indent: -1em;
 }
 
+.sign{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }

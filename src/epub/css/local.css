@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:acronym"]{
-	font-variant: all-small-caps;
-}
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
@@ -24,6 +20,11 @@
 [epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
 }
 
 blockquote.sign{
@@ -53,11 +54,6 @@ blockquote.sign p{
 
 #chapter-11 blockquote:first-of-type p:last-of-type{
 	text-align: right;
-}
-
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
 }
 
 q{

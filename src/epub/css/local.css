@@ -5,25 +5,48 @@
 	font-variant: all-small-caps;
 }
 
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-.sign{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
-
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+blockquote.sign{
+	display: block;
+	padding-left: 1em;
+	text-align: center;
+}
+
+#chapter-11 blockquote:first-of-type p:first-of-type{
+	text-transform: uppercase;
+}
+
+#chapter-11 blockquote:first-of-type p:nth-of-type(2){
+	font-variant: all-small-caps;
+}
+
+#chapter-11 blockquote:first-of-type p:nth-of-type(3),
+#chapter-11 blockquote:first-of-type p:nth-of-type(4),
+#chapter-11 blockquote:last-of-type,
+#chapter-12 blockquote.sign{
+	font-variant: small-caps;
+}
+
+#chapter-11 blockquote:first-of-type p:last-of-type,
+#chapter-11 blockquote:last-of-type p:last-of-type{
+	text-align: right;
 }
 
 p span.i1{
@@ -33,19 +56,4 @@ p span.i1{
 
 q{
 	font-style: italic;
-}
-
-[epub|type~="z3998:verse"] p{
-	text-align: initial;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:verse"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
-
-[epub|type~="z3998:verse"] p > span + br{
-	display: none;
 }

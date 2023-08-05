@@ -32,6 +32,9 @@ blockquote.sign{
 	text-align: center;
 }
 
+blockquote.sign p{
+	text-indent: 0;
+}
 #chapter-11 blockquote:first-of-type p:first-of-type{
 	text-transform: uppercase;
 }

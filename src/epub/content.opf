@@ -40,9 +40,8 @@
 		<meta property="se:subject">Science Fiction</meta>
  		<dc:description id="description">A man visits several worlds as he attempts to discover why humanity is dying out, gaining companions on the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			After noticing that interstellar spaceships are bypassing their target planets due to no reaction from the expected inhabitants when the ship arrives, a man is sent out to investigate what is happening to humanity. Traveling faster than light and with a string of words to identify those with the secret of faster-than-light travel on each world, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world's original settler, and Earth itself.
-
- 			Originally published in 1954, this work is a satirical cautionary tale, exaggerating trends in our own world. It was the second collabortaion between Frederik Pohl and C. M. Kornbluth. The pair would ultimately publish six novels and several short stories, before Kornbluth's death in 1958. Critics at the time largely enjoyed the book, though they generally found the pair's first collaboration, &lt;i&gt;The Space Merchants&lt;/i&gt; to be the stronger book. The book was reprinted in 1977, at which point Spider Robinson, writing in &lt;i&gt;Galaxy&lt;/i&gt; magazine in September 1977, credited Pohl and Kornbluth with inspiring an "explosion" of satirical science fiction, adding that Pohl &amp; Kornbluth "didn't invent the notion of extrapolating-&lt;i&gt;beyond&lt;/i&gt;-the-point-of-absurdity– but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness–and gave it a bite like an angry chainsaw."
+			&lt;p&gt;After noticing that interstellar spaceships are bypassing their target planets due to no reaction from the expected inhabitants when the ship arrives, a man is sent out to investigate what is happening to humanity. Traveling faster than light and with a string of words to identify those with the secret of faster-than-light travel on each world, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world’s original settler, and Earth itself.&lt;/p&gt;
+ 			&lt;p&gt;Originally published in 1954, this work is a satirical cautionary tale, exaggerating trends the authors saw in our own world. It was the second collaboration between &lt;a href="https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth"&gt;Frederik Pohl and C. M. Kornbluth&lt;/a&gt;. The pair would ultimately publish 6 novels and several short stories before Kornbluth’s death in 1958. Critics at the time largely enjoyed the book, though they generally found the pair’s first collaboration, &lt;i&gt;The Space Merchants&lt;/i&gt; to be the stronger book. The book was reprinted in 1977, at which point Spider Robinson, writing in Galaxy magazine in September 1977, credited Pohl and Kornbluth with inspiring an “explosion” of satirical science fiction, adding that Pohl &amp;amp; Kornbluth “didn’t invent the notion of extrapolating-&lt;i&gt;beyond&lt;/i&gt;-the-point-of-absurdity–but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness–and gave it a bite like an angry chainsaw.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/52228</dc:source>
@@ -56,20 +55,20 @@
 		<meta property="file-as" refines="#author-1">Pohl, Frederik</meta>
 		<meta property="se:name.person.full-name" refines="#author-1">Frederik George Pohl Junior</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79029809.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79029809</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="display-seq" refines="#author-1">1</meta>
 		<dc:creator id="author-2">C. M. Kornbluth</dc:creator>
 		<meta property="file-as" refines="#author-2">Kornbluth, C. M.</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Cyril M. Kornbluth</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Cyril_M._Kornbluth</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/n50053582.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50053582</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="display-seq" refines="#author-2">2</meta>
  		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
  		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
  		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Gleizes</meta>
- 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81013211.html</meta>
+ 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81013211</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
  		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
@@ -90,20 +89,20 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
- 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
- 		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>

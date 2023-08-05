@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>L-C is company name, so no spaces or periods.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

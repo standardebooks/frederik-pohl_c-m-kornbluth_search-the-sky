@@ -37,43 +37,45 @@
 		<meta property="term" refines="#subject-2">sh2008111729</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+ 		<dc:description id="description">A man visits several worlds as he attempts to discover why humanity is dying out, gaining companions on the way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			After noticing that interstellar spaceships are bypassing their target planets due to no reaction from the expected inhabitants when the ship arrives, a man is sent out to investigate what is happening to humanity. Traveling faster than light and with a string of words to identify those with the secret of faster-than-light travel on each world, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world's original settler, and Earth itself.
+
+ 			Originally published in 1954, this work is a satirical cautionary tale, exaggerating trends in our own world. It was the second collabortaion between Frederik Pohl and C. M. Kornbluth. The pair would ultimately publish six novels and several short stories, before Kornbluth's death in 1958. Critics at the time largely enjoyed the book, though they generally found the pair's first collaboration, &lt;i&gt;The Space Merchants&lt;/i&gt; to be the stronger book. The book was reprinted in 1977, at which point Spider Robinson, writing in &lt;i&gt;Galaxy&lt;/i&gt; magazine in September 1977, credited Pohl and Kornbluth with inspiring an "explosion" of satirical science fiction, adding that Pohl &amp; Kornbluth "didn't invent the notion of extrapolating-&lt;i&gt;beyond&lt;/i&gt;-the-point-of-absurdity– but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness–and gave it a bite like an angry chainsaw."
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/52228</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/SearchTheSky/</dc:source>
+		<meta property="se:production-notes">Cyril Kornbluth had no middle name. The "M." is believed to be in tribute to his wife, Mary Byers. As both the Library of Congress Names Database and Wikipedia list his full name as "Cyril M. Kornbluth", the "M." is retained in the se:name.person.full-name value below.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Search_the_Sky</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_c-m-kornbluth_search-the-sky</meta>
 		<dc:creator id="author-1">Frederik Pohl</dc:creator>
 		<meta property="file-as" refines="#author-1">Pohl, Frederik</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author-1">Frederik George Pohl Junior</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79029809.html</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="display-seq" refines="#author-1">1</meta>
 		<dc:creator id="author-2">C. M. Kornbluth</dc:creator>
 		<meta property="file-as" refines="#author-2">Kornbluth, C. M.</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/C._M._Kornbluth</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author-2">Cyril M. Kornbluth</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Cyril_M._Kornbluth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/n50053582.html</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="display-seq" refines="#author-2">2</meta>
+ 		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
+ 		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
+ 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Gleizes</meta>
+ 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81013211.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+ 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Andy Tinkham</dc:contributor>
+ 		<meta property="file-as" refines="#producer-1">Tinkham, Andy</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>

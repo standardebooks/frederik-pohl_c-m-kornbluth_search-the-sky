@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-05T15:02:41Z</dc:date>
+		<meta property="dcterms:modified">2023-08-05T15:02:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,17 +38,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">A man visits several worlds as he attempts to discover why humanity is dying out, gaining companions on the way.</dc:description>
+		<dc:description id="description">A man visits several worlds as he attempts to discover why humanity is dying out.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After noticing that interstellar spaceships are bypassing their target planets due to no reaction from the expected inhabitants when the ship arrives, a man is sent out to investigate what is happening to humanity. Traveling faster than light and with a string of words to identify those with the secret of faster-than-light travel on each world, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world’s original settler, and Earth itself.&lt;/p&gt;
-			&lt;p&gt;Originally published in 1954, this work is a satirical cautionary tale, exaggerating trends the authors saw in our own world. It was the second collaboration between &lt;a href="https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth"&gt;Frederik Pohl and C. M. Kornbluth&lt;/a&gt;. The pair would ultimately publish six novels and several short stories before Kornbluth’s death in 1958. Critics at the time largely enjoyed the book, though they generally found the pair’s first collaboration, &lt;i&gt;The Space Merchants&lt;/i&gt; to be the stronger book. The book was reprinted in 1977, at which point Spider Robinson, writing in &lt;i&gt;Galaxy&lt;/i&gt; magazine in September 1977, credited Pohl and Kornbluth with inspiring an “explosion” of satirical science fiction, adding that Pohl and Kornbluth “didn’t invent the notion of extrapolating-&lt;i&gt;beyond&lt;/i&gt;-the-point-of-absurdity—but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness—and gave it a bite like an angry chainsaw.”&lt;/p&gt;
+			&lt;p&gt;After noticing that interstellar spaceships are bypassing their destination planets because they’re not able to contact the inhabitants on arrival, a man is sent out to investigate what is happening to humanity. Traveling faster than light, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world’s original settler, and Earth itself.&lt;/p&gt;
+			&lt;p&gt;Originally published in 1954, &lt;i&gt;Search the Sky&lt;/i&gt; is the second collaboration between &lt;a href="https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth"&gt;Frederik Pohl and C. M. Kornbluth&lt;/a&gt;. The story is a satirical cautionary tale, exaggerating trends the authors saw in our own world. The pair would ultimately publish six novels and several short stories before Kornbluth’s death in 1958.&lt;/p&gt;
+			&lt;p&gt;Contemporary critics gave the book a positive reception, though they generally found the pair’s first collaboration, &lt;i&gt;The Space Merchants&lt;/i&gt;, to be the stronger book. &lt;i&gt;Search the Sky&lt;/i&gt; was reprinted in 1977, at which point Spider Robinson, writing in &lt;i&gt;Galaxy&lt;/i&gt; magazine in September 1977, credited Pohl and Kornbluth with inspiring an “explosion” of satirical science fiction, adding that Pohl and Kornbluth “didn’t invent the notion of extrapolating-&lt;em&gt;beyond&lt;/em&gt;-the-point-of-absurdity—but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness—and gave it a bite like an angry chainsaw.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/52228</dc:source>
 		<dc:source>https://archive.org/details/SearchTheSky/</dc:source>
-		<meta property="se:production-notes">Cyril Kornbluth had no middle name. The "M." is believed to be in tribute to his wife, Mary Byers. As both the Library of Congress Names Database and Wikipedia list his full name as "Cyril M. Kornbluth", the "M." is retained in the se:name.person.full-name value below.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">54565</meta>
+		<meta property="se:reading-ease.flesch">76.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Search_the_Sky</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_c-m-kornbluth_search-the-sky</meta>
 		<dc:creator id="author-1">Frederik Pohl</dc:creator>
@@ -81,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

@@ -8,7 +8,7 @@
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
-		text-align: initial;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -35,6 +35,7 @@ blockquote.sign{
 blockquote.sign p{
 	text-indent: 0;
 }
+
 #chapter-11 blockquote:first-of-type p:first-of-type{
 	text-transform: uppercase;
 }
@@ -50,8 +51,7 @@ blockquote.sign p{
 	font-variant: small-caps;
 }
 
-#chapter-11 blockquote:first-of-type p:last-of-type,
-#chapter-11 blockquote:last-of-type p:last-of-type{
+#chapter-11 blockquote:first-of-type p:last-of-type{
 	text-align: right;
 }
 

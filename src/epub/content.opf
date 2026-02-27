@@ -58,14 +58,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79029809</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
-		<meta property="display-seq" refines="#author-1">1</meta>
 		<dc:creator id="author-2">C. M. Kornbluth</dc:creator>
 		<meta property="file-as" refines="#author-2">Kornbluth, C. M.</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Cyril M. Kornbluth</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Cyril_M._Kornbluth</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50053582</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<meta property="display-seq" refines="#author-2">2</meta>
 		<dc:contributor id="artist">Albert Gleizes</dc:contributor>
 		<meta property="file-as" refines="#artist">Gleizes, Albert</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Gleizes</meta>

@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-030">
+			<line>50</line>
 			<reason>L-C is company name, so no spaces or periods.</reason>
 		</ignore>
 	</file>

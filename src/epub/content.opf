@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A man visits several worlds as he attempts to discover why humanity is dying out.</dc:abstract>
+		<meta property="schema:abstract">A man visits several worlds as he attempts to discover why humanity is dying out.</meta>
 		<dc:description>
 			&lt;p&gt;After noticing that interstellar spaceships are bypassing their destination planets because they’re not able to contact the inhabitants on arrival, a man is sent out to investigate what is happening to humanity. Traveling faster than light, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world’s original settler, and Earth itself.&lt;/p&gt;
 			&lt;p&gt;Originally published in 1954, &lt;i&gt;Search the Sky&lt;/i&gt; is the second collaboration between &lt;a href="https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth"&gt;Frederik Pohl and C. M. Kornbluth&lt;/a&gt;. The story is a satirical cautionary tale, exaggerating trends the authors saw in our own world. The pair would ultimately publish six novels and several short stories before Kornbluth’s death in 1958.&lt;/p&gt;
